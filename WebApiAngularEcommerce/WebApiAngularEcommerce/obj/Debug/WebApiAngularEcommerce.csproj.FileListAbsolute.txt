@@ -1,0 +1,261 @@
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csprojAssemblyReference.cache
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.dll.config
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.pdb
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.exe
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.exe.config
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.rsp
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.exe
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.exe.config
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.rsp
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Console.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Net.Http.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.exe
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.exe.config
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.rsp
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Options.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Cors.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Newtonsoft.Json.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Owin.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Buffers.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.ComponentModel.Annotations.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Memory.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Net.Http.Formatting.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Numerics.Vectors.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Text.Encodings.Web.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Cors.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Cors.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Owin.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.WebHost.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Options.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Cors.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Buffers.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Memory.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Numerics.Vectors.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Text.Encodings.Web.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Cors.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Owin.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Newtonsoft.Json.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Net.Http.Formatting.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.WebHost.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.CopyComplete
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.dll
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.pdb
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.Migrations.init.resources
+C:\Users\Walaa Mohamed\Desktop\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.GenerateResource.cache
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.dll.config
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\WebApiAngularEcommerce.pdb
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.exe
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.exe.config
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csc.rsp
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.exe
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.exe.config
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\csi.rsp
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.AppContext.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Collections.Immutable.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Console.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Globalization.Calendars.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.Compression.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.FileSystem.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Net.Http.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Net.Sockets.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.ValueTuple.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XPath.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.exe
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.exe.config
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\vbc.rsp
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\VBCSCompiler.exe
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\roslyn\VBCSCompiler.exe.config
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.SqlServer.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Core.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Cors.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Options.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Primitives.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Net.Http.Headers.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Cors.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.Cookies.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.OAuth.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Newtonsoft.Json.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Owin.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Buffers.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.ComponentModel.Annotations.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Memory.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Net.Http.Formatting.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Numerics.Vectors.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Text.Encodings.Web.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Cors.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Cors.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Owin.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.WebHost.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\EntityFramework.SqlServer.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Core.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Cors.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Options.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Extensions.Primitives.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Net.Http.Headers.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Cors.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.Cookies.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.Owin.Security.OAuth.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Buffers.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Memory.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Numerics.Vectors.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Text.Encodings.Web.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Cors.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.Owin.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Newtonsoft.Json.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Net.Http.Formatting.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\System.Web.Http.WebHost.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csprojAssemblyReference.cache
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.CoreCompileInputs.cache
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.CopyComplete
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.dll
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.pdb
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.Migrations.ini.resources
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.csproj.GenerateResource.cache
+E:\walaaProject\WebApiAngularEcommerce\WebApiAngularEcommerce\obj\Debug\WebApiAngularEcommerce.Migrations.ini1.resources
